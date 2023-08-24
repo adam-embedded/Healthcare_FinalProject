@@ -1,7 +1,0 @@
-/home/adam/development/university/openpose_tensorRT/cmake-build-debug/CMakeFiles/openpose_tensorRT.dir
-/home/adam/development/university/openpose_tensorRT/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/adam/development/university/openpose_tensorRT/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/adam/development/university/openpose_tensorRT/cmake-build-debug/libs/tensorrt-cpp-api/CMakeFiles/tensorrt_cpp_api.dir
-/home/adam/development/university/openpose_tensorRT/cmake-build-debug/libs/tensorrt-cpp-api/CMakeFiles/driver.dir
-/home/adam/development/university/openpose_tensorRT/cmake-build-debug/libs/tensorrt-cpp-api/CMakeFiles/edit_cache.dir
-/home/adam/development/university/openpose_tensorRT/cmake-build-debug/libs/tensorrt-cpp-api/CMakeFiles/rebuild_cache.dir
