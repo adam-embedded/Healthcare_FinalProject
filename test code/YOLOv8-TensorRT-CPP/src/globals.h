@@ -1,0 +1,10 @@
+//
+// Created by adam on 6/26/23.
+//
+
+#ifndef YOLOV8_TENSORRT_CPP_GLOBALS_H
+#define YOLOV8_TENSORRT_CPP_GLOBALS_H
+
+
+
+#endif //YOLOV8_TENSORRT_CPP_GLOBALS_H
