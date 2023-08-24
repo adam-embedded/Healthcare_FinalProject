@@ -81,8 +81,8 @@ int main() {
 
     botId = "ML0DEZ48WH";
     botAliasId = "TSTALIASID";
-    lexKey = "AKIATHVHQQFTO5ZTEQHG";
-    lexSecret = "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";
+    lexKey = "";
+    lexSecret = "";
     localeId = "en_GB";
     std::string sessionID = "new_session";
 
