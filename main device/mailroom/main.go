@@ -74,7 +74,7 @@ func main() {
 				}
 			} else {
 				//message intended for mailroom, check what the message is and who it is from
-				if control.Mess == 1 && control.Id == 1 {
+				if control.Mess == 1 && control.Id == 2 {
 					//message is to show the user has fallen, send a true message for fallen with a timestamp
 					c.sendFall(map[string]interface{}{"ts": time.Now().Unix(), "value": true})
 				}
