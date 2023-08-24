@@ -1,3 +1,6 @@
 [submodule "test code/deepspeech-cpp"]
 	path = test code/deepspeech-cpp
 	url = https://github.com/adam-embedded/Deepspeech-example-cpp
+[submodule "main device/human tracking and following"]
+	path = main device/human tracking and following
+	url = https://github.com/adam-embedded/human-following
