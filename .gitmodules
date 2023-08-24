@@ -4,3 +4,6 @@
 [submodule "main device/human tracking and following"]
 	path = main device/human tracking and following
 	url = https://github.com/adam-embedded/human-following
+[submodule "main device/motor control"]
+	path = main device/motor control
+	url = https://github.com/adam-embedded/motor_control
